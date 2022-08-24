@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AboutFragment"
+    android:theme="@style/MainTheme">
+
+    <TextView
+        android:id="@+id/get_to_know_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:gravity="center"
+        android:text="@string/get_to_know"
+        android:textStyle="normal" />
+
+    <TextView
+        android:id="@+id/main_twice_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="85dp"
+        android:gravity="center"
+        android:text="@string/twice"
+        android:textStyle="normal" />
+
+    <ImageView
+        android:id="@+id/about_twice_main_img"
+        android:layout_width="match_parent"
+        android:layout_height="328dp"
+        android:layout_marginTop="155dp"
+        android:src="@drawable/twice_main"/>
+
+    <Button
+        android:id="@+id/main_activity_button"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:onClick="goToMoreInfoActivity"
+        android:tag="origin_about"
+        android:text="@string/click_for_more_info"
+        android:layout_marginTop="525dp"
+        android:layout_marginLeft="56dp"
+        android:background="@color/orange"
+        android:textColor="@color/white"/>
+
+</FrameLayout>

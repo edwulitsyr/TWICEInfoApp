@@ -1,0 +1,1415 @@
+<resources>
+    <string name="app_name">Learn About Twice</string>
+    <string name="frag_title_members">TWICE Members</string>
+    <string name="frag_title_lyrics">KR to ENG Translated Lyrics</string>
+    <string name="twice">TWICE</string>
+    <string name="get_to_know">Get to Know:</string>
+    <string name="about_twice">About TWICE</string>
+    <string name="click_for_more_info">Click to learn about TWICE</string>
+    <string name="twice_more_info">
+        Twice (Korean: 트와이스) commonly stylized in all caps as TWICE) is a South Korean girl group formed by JYP Entertainment.
+        The group is composed of nine members: Nayeon, Jeongyeon, Momo, Sana, Jihyo, Mina, Dahyun, Chaeyoung, and Tzuyu.
+        Twice was formed under the television program Sixteen (2015) and debuted on October 20, 2015, with the extended play (EP) The Story Begins.\n\n
+        Twice rose to domestic fame in 2016 with their single "Cheer Up", which charted at number one on the Gaon Digital Chart, became the best-performing single of the year, and won "Song of the Year" at the Melon Music Awards and Mnet Asian Music Awards.
+        Their next single, "TT", from their third EP Twicecoaster: Lane 1, topped the Gaon charts for four consecutive weeks.
+        The EP was the highest selling Korean girl group album of 2016. Within 19 months after debut, Twice had already sold over 1.2 million units of their four EPs and special album.
+        As of December 2020, the group has sold over 10 million albums cumulatively in South Korea and Japan, becoming the highest-selling K-Pop girl group of all time.
+    </string>
+    <string name="nayeon">Nayeon</string>
+    <string name="jihyo">Jihyo</string>
+    <string name="mina">Mina</string>
+    <string name="jeongyeon">Jeongyeon</string>
+    <string name="momo">Momo</string>
+    <string name="sana">Sana</string>
+    <string name="chaeyoung">Chaeyoung</string>
+    <string name="dahyun">Dahyun</string>
+    <string name="tzuyu">Tzuyu</string>
+    <string name="about_nayeon">
+        Stage Name: Nayeon (나연)\n
+        Birth Name: Im Na Yeon (임나연)\n
+        Nationality: Korean\n
+        Position: Lead Vocalist, Lead Dancer, Center, Face of the Group\n
+        Birthday: September 22, 1995\n
+        Zodiac Sign: Virgo\n
+        Height: 163 cm (5’4″)\n
+        Weight: 47 kg (104 lbs)\n
+        Blood Type: A\n
+        MBTI Type: ISTP-A\n
+        Instagram: nayeonyny
+    </string>
+    <string name="about_jihyo">
+        Stage Name: Jihyo (지효)\n
+        Birth Name: Park Ji Soo (박지수) but legalized her name to Park Ji Hyo (박지효)\n
+        Nationality: Korean\n
+        Position: Leader, Main Vocalist\n
+        Birthday: February 1, 1997\n
+        Zodiac sign: Aquarius\n
+        Official Height: 162 cm (5 ft 3¾ in) / Approx. Real Height: 160 cm (5’3″)\n
+        Official Weight: 56 kg (123 lbs) / Approx. Real Weight: 49 kg (108 lbs)\n
+        Blood Type: O\n
+        MBTI Type: ISFP-T\n
+        Instagram: _zyozyo
+    </string>
+    <string name="about_mina">
+        Stage Name: Mina (미나)\n
+        Birth Name: Myoui Mina (名井 南)\n
+        English Name: Sharon\n
+        Nationality: Japanese (She used to have American citizenship but she gave it up)\n
+        Position: Main Dancer, Sub Vocalist\n
+        Birthday: March 24, 1997\n
+        Zodiac Sign: Aries\n
+        Height: 163 cm (5’4″)\n
+        Weight: 46 kg (101 lbs)\n
+        Blood Type: A\n
+        MBTI Type: ISFP-T\n
+        Instagram: mina_sr_my
+    </string>
+    <string name="about_jeongyeon">
+        Stage Name: Jeongyeon (정연)\n
+        Birth Name: Yoo Kyung Wan (유경완), but she legalized her name to Yoo Jeong Yeon (유정연)\n
+        Nationality: Korean\n
+        Position: Lead Vocalist\n
+        Birthday: November 1, 1996\n
+        Zodiac Sign: Scorpio\n
+        Official Height: 169 cm (5’7″) / Real Height: 167 cm (5’6″)\n
+        Weight: 49.1 kg (108 lbs)\n
+        Blood Type: O\n
+        MBTI Type: ISFP\n
+        Instagram: jy_piece
+    </string>
+    <string name="about_momo">
+        Stage Name: Momo (모모)\n
+        Birth Name: Hirai Momo (平井 もも)\n
+        Nationality: Japanese\n
+        Position: Main Dancer, Sub Vocalist, Sub Rapper\n
+        Birthday: November 9, 1996\n
+        Zodiac Sign: Scorpio\n
+        Official Height: 167 cm (5’6″) /Real Height: 163 cm (5’4″)\n
+        Weight: 48.5 kg (106 lbs)\n
+        Blood Type: A\n
+        MBTI Type: INFP-T\n
+        Instagram: momo
+    </string>
+    <string name="about_sana">
+        Stage Name: Sana (사나)\n
+        Birth Name: Minatozaki Sana (湊崎 紗夏)\n
+        Nationality: Japanese\n
+        Position: Sub Vocalist\n
+        Birthday: December 29, 1996\n
+        Zodiac Sign: Capricorn\n
+        Official Height: 168 cm (5’6″) / Approx. Real Height: 163 cm (5’4″)\n
+        Weight: 47 kg (104 lbs)\n
+        Blood Type: B\n
+        MBTI Type: ENFP\n
+        Instagram: m.by__sana\n
+        Twitter: sanapomu
+    </string>
+    <string name="about_chaeyoung">
+        Stage Name: Chaeyoung (채영)\n
+        Birth Name: Son Chae Young (손채영)\n
+        Nationality: Korean\n
+        Position: Main Rapper, Sub Vocalist\n
+        Birthday: April 23, 1999\n
+        Zodiac Sign: Taurus\n
+        Official Height: 163 cm (5’4″) / Real Height: 158.9 cm (5’3″)*\n
+        Weight: 46 kg (101 lbs)\n
+        Blood Type: B\n
+        MBTI Type: INFP-T\n
+        Instagram: chaeyo.0
+    </string>
+    <string name="about_dahyun">
+        Stage Name: Dahyun (다현)\n
+        Birth Name: Kim Da Hyun (김다현)\n
+        Nationality: Korean\n
+        Position: Lead Rapper, Sub Vocalist\n
+        Birthday: May 28, 1998\n
+        Zodiac Sign: Gemini\n
+        Official Height: 165 cm (5’5″) / Real Height: 161 cm (5’3″)\n
+        Weight: 48.9 kg (108 lbs)\n
+        Blood Type: O\n
+        MBTI Type: ISFJ-T\n
+        Instagram: dahhyunnee
+    </string>
+    <string name="about_tzuyu">
+        Stage Name: Tzuyu (쯔위)\n
+        Birth Name: Chou Tzuyu (周子瑜)\n
+        Korean Name: Chou Tzu Yu (저우쯔위/주자유)\n
+        English Name: Sally\n
+        Nationality: Taiwanese\n
+        Position: Lead Dancer, Sub Vocalist, Visual, Maknae\n
+        Birthday: June 14, 1999\n
+        Zodiac Sign: Gemini\n
+        Height: 170 cm (5’7″)\n
+        Weight: 48 kg (106 lbs)\n
+        Blood Type: A\n
+        MBTI Type: ISFP-A\n
+        Instagram: thinkaboutzu
+    </string>
+    <string name="lyrics_like_ooh_ahh">
+        People just can\'t leave me alone not for a single moment\n
+        I\'m so pretty\n
+        I make everyone so smitten\n
+        No matter which way I go, the floors are all red\n
+        Like walking down the red carpet\n
+        Everyone is staring at me oh\n
+         \n
+        Some people ask "Who\'s your mama?"\n
+        They take a fresh approach\n
+        But I don\'t feel a thing oh\n
+        But I want to love somebody\n
+        Wanna fall in love, baby\n
+        Listen up my boy\n
+         \n
+        I\'m waiting for someone who can make me feel\n
+        Something like never before\n
+        (That\'s who I\'m waiting for)\n
+        I\'ll wait no matter how long it takes\n
+        I just wanna fall in love\n
+         \n
+        What to do, keep me still\n
+        Make me like ooh-ahh ooh-ahh\n
+        Fake, fake, an empty-hearted fake\n
+        Goodbye and good riddance huh (Like ooh-ahh)\n
+        What to do, make me speechless\n
+        Make me like ooh-ahh ooh-ahh\n
+        Bla la la la, stop talking, start doing\n
+        Make me feel huh (Like ooh-ahh)\n
+         \n
+        Look at me and see me again\n
+        Pass by once and look back (Twice)\n
+        Wherever I go, I go without makeup\n
+        But I\'m the one who shines the most\n
+        Flat shoes can\'t hide my high value\n
+         \n
+        Movie-like scenes run through my head la la la\n
+        Just thinking about it\n
+        Makes me excited yeah\n
+        Now I want to love somebody\n
+        Wanna fall in love baby\n
+        Listen up my boy\n
+         \n
+        I\'m waiting for someone who can make me feel\n
+        Something like never before\n
+        (That\'s who I\'m waiting for)\n
+        I\'ll wait no matter how long it takes\n
+        I just wanna fall in love\n
+         \n
+        What to do, keep me still\n
+        Make me like ooh-ahh ooh-ahh\n
+        Fake, fake, an empty-hearted fake\n
+        Goodbye and good riddance huh (Like ooh-ahh)\n
+        What to do, make me speechless\n
+        Make me like ooh-ahh ooh-ahh\n
+        Bla la la la, stop talking, start doing\n
+        Make me feel huh (Like ooh-ahh)\n
+         \n
+        Don\'t wanna start with just anybody\n
+        I\'m not the kind of girl who gives herself away so easily\n
+         \n
+        Let me see how you gonna treat me\n
+        I ain\'t no easy\n
+        Better think about it twice\n
+        Let me see how you gonna treat me\n
+        I ain\'t no easy\n
+        Better think about it twice\n
+         \n
+        What to do, keep me still\n
+        Make me like ooh-ahh ooh-ahh\n
+        Fake, fake, an empty-hearted fake\n
+        Goodbye and good riddance huh (Like ooh-ahh)\n
+        What to do, make me speechless\n
+        Make me like ooh-ahh ooh-ahh\n
+        Bla la la la, stop talking, start doing\n
+        Make me feel huh (Like ooh-ahh)\n
+         \n
+        Like ooh-ahh\n
+    </string>
+    <string name="lyrics_cheer_up">
+        Every day it rings, the bell bell bell\n
+        Now care for me\n
+        I don\'t wanna waste my battery\n
+        I keep looking, it keeps coming\n
+        Like my phone\'s gonna explode\n
+        I don\'t know, I don\'t know, he says he can\'t even breathe\n
+        He says he\'s struggling because of me\n
+        He says his heart is dropping, why?\n
+        He says that I\'m so pretty\n
+        I\'m not showing off or anything\n
+         \n
+        Sorry I couldn\'t pick up earlier\n
+        I was meeting my friends, shy shy shy\n
+        I can\'t really meet you right now, sorry\n
+        I\'ll call you a little later\n
+         \n
+        Don\'t beg, then you won\'t last long\n
+        I\'ll let you call me baby\n
+        It\'s still a little too early, too early for my heart\n
+        to feel the same – But I\'ll show you more\n
+         \n
+        CHEER UP BABY CHEER UP BABY\n
+        Cheer up a little more\n
+        A girl can\'t give her heart too easily\n
+        That\'s how you\'ll get to like me even more\n
+        I\'ll act calm, as if it\'s nothing\n
+        So you won\'t know that I like you\n
+        just get it together\n
+        and then baby CHEER UP\n
+         \n
+        I can hear the anxiety in your voice\n
+        I can see the sweat forming on your phone\n
+        It\'s not attractive to answer right away\n
+        Reading your text and not responding is a given\n
+        Oops, was I too harsh boy?\n
+        I\'m worried that you\'ll get tired\n
+        But if not, I think I\'ll fall for you\n
+        I think I\'ll fall you for even more\n
+         \n
+        Sorry I couldn\'t respond\n
+        I was meeting my friends, shy shy shy\n
+        I can\'t really meet you right now, sorry\n
+        I\'ll call you a little later\n
+         \n
+        Don\'t beg, I\'m not going anywhere\n
+        I\'ll be your baby\n
+        But not too fast, show me you mean it\n
+        I\'ll wait for you\n
+         \n
+        CHEER UP BABY CHEER UP BABY\n
+        Cheer up a little more\n
+        A girl can\'t give her heart too easily\n
+        That\'s how you\'ll get to like me even more\n
+        I\'ll act calm, as if it\'s nothing\n
+        So you won\'t know that I like you\n
+        just get it together\n
+        and then baby CHEER UP\n
+         \n
+        I like you too, I\'m just worried I\'ll get hurt\n
+        I hope you understand cuz I\'m a girl\n
+         \n
+        I\'m scared that you\'ll find out how I feel\n
+        Come to me little by little just like now\n
+        It won\'t take that long\n
+        just get it together\n
+        and then baby CHEER UP\n
+         \n
+        Be a man, a real man\n
+        Gotta see u love me\n
+        Like a real man\n
+        Be a man, a real man\n
+        Gotta see u love me\n
+        Like a real man\n
+         \n
+        CHEER UP BABY CHEER UP BABY\n
+        Cheer up a little more\n
+        A girl can\'t give her heart too easily\n
+        That\'s how you\'ll get to like me even more\n
+        I\'ll act calm, as if it\'s nothing\n
+        So you won\'t know that I like you\n
+        just get it together\n
+        and then baby CHEER UP\n
+    </string>
+    <string name="lyrics_feel_special">
+        You make me feel special\n
+         \n
+        It\'s just one of these days\n
+        All of the sudden feeling lost, don\'t know why\n
+        Can\'t figure out where I belong, regret the path I chose\n
+        Afraid, I keep my head down\n
+         \n
+        But on those days you tell me,\n
+        “You\'re shining so bright, a star in the night\n
+        You\'re precious, sparkling like a diamond”\n
+        Everything\'s alright\n
+        Turning from Nobody into a Somebody\n
+        To an unbreakable me\n
+         \n
+        You make me feel special\n
+        Through every challenge along the way, you\'ll guide me\n
+        Those hurtful words become meaningless, you\'re my fate\n
+        Finding my smile, lost it for a while\n
+        That\'s what you do\n
+         \n
+        Again, I feel special\n
+        One moment, feeling this overwhelming sadness\n
+        Like no one would even notice if I vanished\n
+        But when you\'re calling out for my name\n
+        I feel loved, I feel so special\n
+         \n
+        Had to escape just for a while\n
+        Was too afraid to face the world\n
+        As if there\'s nothing worth living, to me\n
+        It\'s like nothing could make me believe\n
+        So I sat and stared at my reflection\n
+         \n
+        But then you appeared, in front of me, here\n
+        The warmest smile, while holding out your hand\n
+        Everything\'s alright\n
+        Turning from Nobody into a Somebody\n
+        To an unbreakable me\n
+         \n
+        You make me feel special\n
+        Through every challenge along the way, you\'ll guide me\n
+        Those hurtful words become meaningless, you\'re my fate\n
+        Finding my smile, lost it for a while\n
+        That\'s what you do\n
+         \n
+        Again I feel special\n
+        One moment, feeling this overwhelming sadness\n
+        Like no one would even notice if I vanished\n
+        But when you\'re calling out for my name\n
+        I feel loved, I feel so special\n
+         \n
+        You make everything alright\n
+        On the gloomiest cloudy days without sunshine\n
+        You become my shining light\n
+        That\'s what you do\n
+        Make the brightest things out of something dark\n
+        I owe it to you\n
+        Because you make me feel\n
+         \n
+        You make me feel special\n
+        Through every challenge along the way, you\'ll guide me\n
+        Those hurtful words become meaningless, you\'re my fate\n
+        Finding my smile, lost it for a while\n
+        That\'s what you do\n
+         \n
+        Again I feel special\n
+        One moment, feeling this overwhelming sadness\n
+        Like no one would even notice if I vanished\n
+        But when you\'re calling out for my name\n
+        I feel loved, I feel so special\n
+         \n
+        (I feel loved)\n
+        (I feel loved, I feel so special)\n
+    </string>
+    <string name="lyrics_tt">
+        I\'m not even thinking straight,stuck in such an awkward place\n
+        As I\'m staring at you Ba-ba-ba-baby\n
+         \n
+        Deep in my dreams and imagination\n
+        I\'d call you my baby\n
+        In the end it\'s all my wishful thinking\n
+        Beautiful in every way you can think of,\n
+        Just you and me, we\'re putting on a fashion show show,\n
+        Now for sure, stop the clock clock, I\'ll do all the talk talk,\n
+        Too delusional, I\'m just too delusional.\n
+         \n
+        Nanananananana,\n
+        Before I knew, reality came to wake me up.\n
+        Why do I feel this way? Making me insane,\n
+        Don\'t feel like myself, no way, I love you so much!\n
+        Thought I was all grown up, became a lady,\n
+        Thought I could now just freely make\n
+        My own choices, have everything my way.\n
+        I keep saying no, telling you to go,\n
+        But in truth I\'ve been, stuck to stuck to you my baby.\n
+         \n
+        I\'m like TT, just like TT,\n
+        Baby you don\'t even know, what a shame, what a shame,\n
+        I\'m like TT, just like TT,\n
+        Tell me that you\'d be my baby.\n
+         \n
+        You say I\'m ridiculous, not living up to my looks\n
+        Doesn\'t cheer me up at all ba-ba-ba-baby\n
+        I\'m going crazy, and out of everything why am I hungry?\n
+        I eat all day and I\'m still hungry\n
+        SlapSlapSlapSlap the innocent voodoo doll\n
+        I sit down and lie all day and time\n
+        Flies by like quick quick quick\n
+        What\'s wrong with my skin skin skin\n
+        I\'m complaining once again\n
+        Just stop bothering me, just now why why why why why\n
+         \n
+        Nanananananana,\n
+        Before I knew, reality came to wake me up.\n
+        Why do I feel this way? I am so upset,\n
+        This is not my myself, no way, I love you so much!\n
+        Thought I was all grown up, became a lady,\n
+        Thought I could now just freely make\n
+        My own choices, have everything my way.\n
+        I keep saying no, telling you to go,\n
+        But in truth I\'ve been, stuck to stuck to you my baby.\n
+         \n
+        I\'m like TT, just like TT,\n
+        Baby you don\'t even know, what a shame, what a shame,\n
+        I\'m like TT, just like TT,\n
+        Tell me that you\'d be my baby.\n
+         \n
+        Don\'t you even know what\'s going on?\n
+        And don\'t you ever disappear and let me go.\n
+        Now for sure, stop the clock clock, I\'ll do all the talk talk,\n
+        Too delusional, I\'m just too delusional.\n
+         \n
+        Thought I was all grown up, became a lady,\n
+        Thought I could now just freely make\n
+        My own choices, have everything my way.\n
+        I keep saying no, telling you to go,\n
+        But in truth I\'ve been, stuck to stuck to you my baby.\n
+         \n
+        I\'m like TT, just like TT,\n
+        Baby you don\'t even know, what a shame, what a shame,\n
+        I\'m like TT, just like TT,\n
+        Tell me that you\'d be my baby.\n
+    </string>
+    <string name="lyrics_dtna">
+        Dance the Night Away (English translation)\n
+        Artist: TWICE (트와이스) •Also performed by: NiziU\n
+        Song: Dance the Night Away •Album: Summer Nights\n
+        Translations: English, French+13 more\n
+        English translationA A\n
+        Dance The Night Away\n
+        Nanana Nanana\n
+        Nanana Nanana\n
+         \n
+        [Verse 1]\n
+        You and me in the moonlight\n
+        On this festive night of shining stars\n
+        The moment we start dancing\n
+        To the sound of waves\n
+        This feeling is just so right\n
+        Hello sea, play with us\n
+        Hello wind, come on over\n
+        Under the moonlight\n
+        Yyou and me and the world\n
+        Together we party all night long\n
+        Yeah, it\'s good\n
+         \n
+        [Refrain]\n
+        If you wanna have some fun\n
+        Like the salty air\n
+        This moment is special\n
+        Don\'t miss the pleasure of it\n
+         \n
+        [Pre-Chorus]\n
+        One, two, three, let\'s go\n
+        Dance like we\'re\n
+        Flying to the top of the world\n
+        Hey! Let\'s dance the night away\n
+         \n
+        [Chorus]\n
+        Let\'s dance the night away\n
+        One, two, three, let\'s go\n
+        Shout out to the other side of the sea\n
+        Let\'s dance the night away\n
+         \n
+        [Post-Chorus]\n
+        Dance the night away\n
+        Let\'s dance the night away\n
+        Dance the night away\n
+        Let\'s dance the night away\n
+         \n
+        [Verse 2]\n
+        You and me in this cool night\n
+        The half-moon is smiling\n
+        Someday you and I\n
+        Will reach the moon\'s far side\n
+        And promise to party\n
+        Yeah it\'s good\n
+         \n
+        [Refrain]\n
+        If you wanna have some fun\n
+        Like the silver sand\n
+        This moment is special\n
+        Don\'t miss the pleasure of it\n
+         \n
+        [Pre-Chorus]\n
+        One, two, three, let\'s go\n
+        Dance like we\'re\n
+        Flying to the top of the world\n
+        Hey! Let\'s dance the night away\n
+         \n
+        [Chorus]\n
+        Let\'s dance the night away\n
+        One, two, three, let\'s go\n
+        Shout out to the other side of the sea\n
+        Let\'s dance the night away\n
+         \n
+        [Bridge]\n
+        Shout out loud\n
+        Like today is the last day\n
+        Jump up high\n
+        Like soaring beyond limits\n
+        Shout out loud\n
+        Like today is the last day\n
+        Under the falling starlight\n
+        Let\'s dance the night away\n
+         \n
+        [Chorus]\n
+        Let\'s dance the night away\n
+        One, two, three, let\'s go\n
+        Shout out to the other side of the sea\n
+        Let\'s dance the night away\n
+         \n
+        [Outro]\n
+        Yeah! Yeah! Yeah!\n
+        Yeah! Yeah! Yeah!\n
+        Yeah! Yeah! Yeah!\n
+        Let’s dance the night away\n
+        Let’s dance the night away (Yeah! yeah! yeah!)\n
+        Let’s dance the night away (Yeah! yeah! yeah!)\n
+        Let’s dance the night away (Yeah! yeah! yeah!)\n
+        Let’s dance the night away\n
+    </string>
+    <string name="lyrics_yes_or_yes">
+        Hey boy\n
+        Look, I\'m gonna make this\n
+        simple for you, you got two choices\n
+        YES or YES?\n
+         \n
+        Ah choose only one YES or YES?\n
+        Ah ah Just choose one YES YES or YES?\n
+         \n
+        I was so selfish\n
+        Have you ever wanted to do something like this?\n
+        I\'m amazed at my impudence\n
+        Come on and tell me yes\n
+        My scenarios that are more drastic than I thought\n
+        This plan is perfect and satisfactory.\n
+        I do not care\n
+        You better tell me yes\n
+         \n
+        My heart is determined YES!\n
+        So now I have your answer\n
+        I\'ll give you a look if you get tough.\n
+        I will not have to worry.\n
+         \n
+        I do not know what to pick.\n
+        Choose either one YES or YES?\n
+        I did not know your mind.\n
+        Just choose one YES or YES?\n
+        I do not like hate or me or us?\n
+        I respect your choice and refuse to refuse.\n
+        One choice is one choice.\n
+        It\'s all up to you\n
+        Choose either one YES or YES?\n
+         \n
+        Is it serious? Do not guess\n
+        Are you serious? Do not ask\n
+        Make sure you are up and down rather than ambiguously\n
+        There\'s no letters N and O\n
+        I will erase it today\n
+        Need to be complicated\n
+        The correct answer is YES YES YO\n
+        It also stimulates selfishness without\n
+        Your eyes\n
+        I am curious about you\n
+        It burns.\n
+        My heart burn burn burn\n
+        Speaking a little easier\n
+         \n
+        You will meet me no matter what you choose.\n
+        Even if it\'s a little crazy\n
+        Even if it is deterrent\n
+        I will not let you regret it.\n
+         \n
+        I do not know what to pick.\n
+        Choose either one YES or YES?\n
+        I did not know your mind.\n
+        Just choose one YES or YES?\n
+        I do not like hate or me or us?\n
+        I respect your choice and refuse to refuse.\n
+        One choice is one choice.\n
+        Now, it\'s all up to you\n
+         \n
+        Maybe not\n
+        No! No!\n
+        Maybe yes\n
+        No! No!\n
+        Show me your heart more clearly.\n
+        Listen to me, do not you hear anything?\n
+        It\'s! Simple! Y! E! S! Hey!\n
+         \n
+        Choose either one YES or YES?\n
+        Just choose one YES or YES?\n
+        YES / YES or YES\n
+        Let\'s pick and choose your mam\n
+         \n
+        I do not know what to pick.\n
+        Select either YES or YES\n
+        I did not know your mind.\n
+        Choose one and go to YES or YES\n
+        I do not like hate or me\n
+        I respect your choice and refuse to refuse.\n
+        One choice is one choice.\n
+        It\'s all up to you\n
+        Choose one and go to YES or YES\n
+    </string>
+    <string name="lyrics_say_you_love_me">
+        I just wanted to change our relationship\n
+        I\'ve been contemplating everyday\n
+        An inerasable tattoo in my head\n
+        Will you tell me if you know everything?\n
+         \n
+        To be honest, if you choose confess\n
+        it\'ll be refreshing\n
+        But in your heart, I want to hear your sincerity from your lips\n
+         \n
+        I won\'t wait a long time\n
+        You\'re the same, obviously\n
+        Hurry and let it go\n
+        Just the word on the tip of the tongue\n
+         \n
+        “In my heart, there\'s no one except you”\n
+        I want to hear these words, tell me without hesitate\n
+        I\'ll give you everything, before my heart changes\n
+        Let out all of your honesty\n
+         \n
+        Oh baby you got something I want, a lot\n
+        I got something you need\n
+        You need you need\n
+        Feel it, ohay you love me\n
+        Oh baby you got something I want, a lot\n
+        I got something you need\n
+        Tell me honestly\n
+        Say you love me\n
+         \n
+        Today, come closer, right now, grab on this chance\n
+        Right away, tell me\n
+        You go by, in the end, you go to the mountains\n
+        You don\'t even notice by now, I\'m so stuffy and frustrated\n
+         \n
+        Cool-like, I just want to say it all\n
+        Something keeps repeatedly\n
+        Moving around your mouth I feel today Oh\n
+         \n
+        I won\'t wait a long time\n
+        You\'re the same, obviously\n
+        Hurry and let it go\n
+        Just the word on the tip of the tongue\n
+         \n
+        “In my heart, there\'s no one except you”\n
+        I want to hear these words, tell me without hesitate\n
+        I\'ll give you everything, before my heart changes\n
+        Let out all of your honesty\n
+         \n
+        Oh baby you got something I want, a lot\n
+        I got something you need\n
+        You need you need\n
+        Feel it, ohay you love me\n
+        Oh baby you got something I want, a lot\n
+        I got something you need\n
+        Tell me honestly\n
+         \n
+        When will you do it?\n
+        Those many words, we\'re running out of time\n
+        We don\'t have much time now\n
+        You don\'t even notice, it\'s so frustrating\n
+         \n
+        How long will you keep me waiting?\n
+        Will you just keep me here at this spot?\n
+        I won\'t wait for a long time\n
+        Oh you better let me know\n
+         \n
+        “In my heart, there\'s no one except you”\n
+        I want to hear these words, tell me without hesitate\n
+        I\'ll give you everything, before my heart changes\n
+        Let out all of your honesty\n
+         \n
+        Oh baby you got something I want, a lot\n
+        I got something you need\n
+        You need you need\n
+        Feel it, ohay you love me\n
+        Oh baby you got something I want, a lot\n
+        I got something you need\n
+        Tell me honestly\n
+        Say you love me\n
+    </string>
+    <string name="lyrics_heart_shaker">
+        Yeah yeah yeah yeah\n
+        Come and be my love\n
+        Come and be my love baby\n
+        Yeah yeah yeah yeah\n
+        Come and be my love\n
+        Come and be my love baby\n
+        I stand still with my head full of thoughts\n
+        Don\'t know if I\'m doing the right thing\n
+        Yeah yeah yeah yeah\n
+        Well, whatever\n
+        No no no no\n
+        I must have gone crazy\n
+         \n
+        My name is TZUYU\n
+        Should I just come up and say hi\n
+        This is my number\n
+        Should I hand a note and run\n
+        Yeah yeah yeah yeah\n
+        What should I do\n
+        No no no no\n
+         \n
+        Now\'s the time\n
+        Girl you can do it\n
+        Our eyes are meeting\n
+        Love is timing\n
+        If I miss it I\'d regret it\n
+        Love is coming, coming\n
+        Take a little more courage\n
+        Don\'t hesitate anymore\n
+         \n
+        Though it may seem weird,\n
+        I can\'t help it, cuz I fell for you\n
+        You\'re my heart shaker, shaker\n
+        Don\'t wanna lose you\n
+        You\'re my heart shaker, shaker\n
+        What should I do\n
+         \n
+        I won\'t wait like a fool\n
+        I\'ll say that I fell for you\n
+        That I like you,\n
+        That I miss you all day long\n
+        Would you be my love\n
+        Cuz I fell for you\n
+         \n
+        Manage that facial expression, make it look natural\n
+        Talk like Cool cool\n
+        No need to get nervous\n
+        Yeah yeah yeah yeah\n
+        Pay close attention and focus\n
+        No no no no\n
+        What should I do, I can\'t look straight\n
+         \n
+        Now\'s the time\n
+        Girl you can do it\n
+        Our eyes are meeting\n
+        Love is timing\n
+        If I miss it I\'d regret it\n
+        Love is coming, coming\n
+        Take a little more courage\n
+         \n
+        Don\'t hesitate anymore\n
+        Though it may seem weird,\n
+        I can\'t help it, cuz I fell for you\n
+        You\'re my heart shaker, shaker\n
+        Don\'t wanna lose you\n
+        You\'re my heart shaker, shaker\n
+        What should I do\n
+         \n
+        I won\'t wait like a fool\n
+        I\'ll say that I fell for you\n
+        That I like you,\n
+        That I miss you all day long\n
+        Would you be my love\n
+        Cuz I fell for you\n
+         \n
+        In the end you\'ll also be wanting me.\n
+        You\'ll end up loving me\n
+        I hope so dearly for you to be like me\n
+         \n
+        Don\'t hesitate, approach first\n
+        Say your love, don\'t hold back\n
+        Come baby, be my, be my, be my love\n
+        Come baby, bae, bae, bae, bae\n
+         \n
+        Though it may seem weird,\n
+        I can\'t help it, cuz I fell for you\n
+        You\'re my heart shaker, shaker\n
+        Don\'t wanna lose you\n
+        You\'re my heart shaker, shaker\n
+        What should I do\n
+         \n
+        I won\'t wait like a fool\n
+        I\'ll say that I like you\n
+        That I like you,\n
+        That I miss you all day long\n
+        That I love you\n
+        That I fell for you\n
+         \n
+        You are mine, be mine\n
+        You are mine, be mine\n
+        I\'ll say that I like you\n
+        Cuz I fell for you\n
+    </string>
+    <string name="lyrics_icsm">
+        Alarm goes off Ring ring a ling\n
+        Whenever our eyes meet\n
+        I notice but just spin around\n
+        Yet I keep getting closer I know it\'s too late\n
+        In my heart I already know\n
+        Sooner or later I\'ll step over the line\n
+        I\'m warning myself\n
+        You shouldn\'t be doing this\n
+        Every minute, every second, my heart goes ahead of me\n
+        Out of control\n
+         \n
+        I\'m surrounded by that Spot spot spotlight\n
+        As it shines on me, I\'m swept into the darkness\n
+        I see the end, I know it\'s not right\n
+        I can\'t stop me, can\'t stop me\n
+         \n
+        Right in front of me, this Red red red line\n
+        Across from each other, you and I exchange glances\n
+        Wanna feel the thrilling Highlight\n
+        I can\'t stop me, can\'t stop me\n
+         \n
+        I can\'t stop me, can\'t stop me\n
+         \n
+        Keep your eyes closed Ya ya\n
+        Just this once No rules ah ah\n
+        Pretend you don\'t know Lights off tonight\n
+        I can\'t help it\n
+        Losing myself\n
+         \n
+        Now Turning back\n
+        Is impossible, I fall deeper into darkness\n
+        It is so thrilling\n
+        Wanna close my eyes\n
+        I just can\'t go back anymore\n
+        Out of control\n
+         \n
+        I\'m surrounded by that Spot spot spotlight\n
+        As it shines on me, I\'m swept into the darkness\n
+        I see the end, I know it\'s not right\n
+        I can\'t stop me, can\'t stop me\n
+         \n
+        Right in front of me, this Red red red line\n
+        Across from each other, you and I exchange glances\n
+        Wanna feel the thrilling Highlight\n
+        I can\'t stop me, can\'t stop me\n
+         \n
+        Risky risky wiggy Crisis\n
+        This is an emergency\n
+        Help me, help me, somebody stop me\n
+        Cuz I know I can\'t stop me\n
+        I already know the answer\n
+        But I still keep going\n
+        I don\'t wanna do this\n
+        There must be another me inside me\n
+         \n
+        I want it, but\n
+        Can\'t do what I want\n
+        Guilty I don\'t want it\n
+        I can\'t stop me, can\'t stop me, can\'t stop me\n
+         \n
+        I\'m surrounded by that Spot spot spotlight\n
+        As it shines on me, I\'m swept into the darkness\n
+        I see the end, I know it\'s not right\n
+        I can\'t stop me, can\'t stop me\n
+         \n
+        Right in front of me, this Red red red line\n
+        Across from each other, you and I exchange glances\n
+        Wanna feel the thrilling Highlight\n
+        I can\'t stop me, can\'t stop me\n
+         \n
+        I can\'t stop me, can\'t stop me\n
+    </string>
+    <string name="lyrics_the_feels">
+        Boy I boy I boy I know\n
+        I know you get the feels\n
+        Boy I boy I boy I know\n
+         \n
+        Uh, I\'m so curious\n
+        \'Bout you boy, wanna keep it cool\n
+        But I know, every time you move\n
+        Got me frozen I\n
+         \n
+        Get so shy\n
+        It\'s obvious\n
+         \n
+        Catching feels like butterflies\n
+        If I say what\'s on my mind\n
+        Would I hit bullseye\n
+         \n
+        Shoot\n
+        I\'m ready, aim and fire\n
+        Baby I\n
+         \n
+        Feel like cupid\'s alive\n
+        Alive tonight\n
+        Yeah tonight\n
+         \n
+        If your heart beats the same way let me know\n
+        Cos I\'m boom boom boom from head to toe and I\n
+         \n
+        I know love it is such a funny thing\n
+        A mystery allure\n
+        Gotta get to know you more\n
+         \n
+        Cos I, I can feel a real connection\n
+        A supernatural attraction-ah\n
+         \n
+        I got the feels for you yea yea yea yea\n
+         \n
+        You have stolen my heart, oh yeah\n
+        Never let it go oh oh no\n
+        Never let it go oh oh oh\n
+         \n
+        Lightning straight to my heart, oh yeah\n
+        I got all the feels for sure\n
+        Yeah, I got all the feels for ya\n
+         \n
+        Boy I boy I boy I know\n
+        I know I get the feels\n
+        Boy I boy I boy I know\n
+        I know you feel it too\n
+         \n
+        Sway in the moonlight, Dance in the dark I\n
+        I know that I caught your eye\n
+         \n
+        Are we on, the same vibe I\n
+        wonder what\'s on your mind\n
+         \n
+        Cos you got me good and I wanna be ya boo\n
+        If it\'s dumb well I wanna be a fool\n
+         \n
+        Underneath the neon lights bebe\n
+        Electricity tonight bebe\n
+         \n
+        I know love it is such a funny thing\n
+        A mystery allure\n
+        Gotta get to know you more\n
+         \n
+        Cos I, I can feel a real connection\n
+        A supernatural attraction-ah\n
+         \n
+        I got the feels for you yea yea yea yea\n
+         \n
+        You have stolen my heart, oh yeah\n
+        Never let it go oh oh no\n
+        Never let it go oh oh oh\n
+         \n
+        Lightning straight to my heart, oh yeah\n
+        I got all the feels for sure\n
+        Yeah, I got all the feels for ya\n
+         \n
+        Boy I boy I boy I know\n
+        I know I get the feels\n
+        Boy I boy I boy I know\n
+        I know you feel it too\n
+         \n
+        Boy I boy I boy I know\n
+        I know I get the feels\n
+        Boy I boy I boy I know\n
+        I know you feel it too\n
+         \n
+        You got my attention\n
+        So what\'s your intention\n
+        Yeah, tell me baby what\'s the deal?\n
+         \n
+        Oh, one look and I know it baby my eyes reveal\n
+        That you you you give me the feels\n
+         \n
+        You have stolen my heart, oh yeah\n
+        Never let it go oh oh no\n
+        Never let it go oh oh oh\n
+         \n
+        Lightning straight to my heart, oh yeah\n
+        I got all the feels for sure\n
+        Yeah, I got all the feels for ya\n
+         \n
+        Boy I boy I boy I know\n
+        I know I get the feels\n
+        Boy I boy I boy I know\n
+        I know you feel it too\n
+         \n
+        Boy I boy I boy I know\n
+        I know I get the feels\n
+        Boy I boy I boy I know\n
+        I know you feel it too\n
+    </string>
+    <string name="lyrics_scientist">
+       Why do you keep studying me?\n
+        You are no Einstein\n
+        Why do you measure angles?\n
+        This is no sine or cosine\n
+        Pushing and pulling\n
+        That\'s not quite my style\n
+        If you\'re gonna give up in the middle\n
+        You\'d better stay away from my heart\n
+         \n
+        You think too much, that\'s your problem\n
+        Being stuck in your head will do no good\n
+        Quit wasting time measuring angles, finding answers\n
+        Better make a move\n
+         \n
+        Love ain\'t a science\n
+        Don\'t need no license\n
+        The more you sit there thinking, it\'s a minus\n
+         \n
+        Don\'t try to be a genius\n
+        Why so serious?\n
+        Follow your heart Wooah\n
+        Let your heart lead you What u, what u waiting for?\n
+         \n
+        So what\'d you find out\n
+        about me so far?\n
+        What\'s the next subject?\n
+        So what\'s the next class, then?\n
+        Keep doing it this way and it\'ll only end in failure\n
+        My mind changes every minute\n
+        You\'ll never figure it out\n
+         \n
+        You think too much, that\'s your problem\n
+        Being stuck in your head will do no good\n
+        Quit wasting time measuring angles, finding answers\n
+        Better make a move\n
+         \n
+        Love ain\'t a science\n
+        Don\'t need no license\n
+        The more you sit there thinking, it\'s a minus\n
+         \n
+        Don\'t try to be a genius\n
+        Why so serious?\n
+        Follow your heart Wooah\n
+        Let your heart lead you What u, what u waiting for?\n
+         \n
+        You got a crush on me\n
+        You\'re gonna fall for me\n
+        Theory is no good when it comes to love, It\'s all useless, uh-huh\n
+         \n
+        Rather than Mr. Know-all Genius Einstein\n
+        More like a bulldozer Curious Frankenstein\n
+        Charge forward, clumsy yet fascinating\n
+        Straight away, push hard Rush\n
+        Got a crush on me\n
+         \n
+        Why don\'t you know it\'s fun cuz the answer\'s missing, why\n
+        don\'t you know it\'s exciting cuz the answer\'s unknown\n
+        Let our love be like having a screw loose\n
+        Like a fool who knows only one and nothing else\n
+         \n
+        Love ain\'t a science, uhm-uhm\n
+        Need no license, uhm-uhm\n
+        Learn more About me \'bout me\n
+        Already enough You know \'bout me\n
+        Love ain\'t a science, uhm-uhm\n
+        Need no license, uhm-uhm\n
+        I told ya What u, what u, what u waiting for?\n
+         \n
+        Love ain\'t a science\n
+        Don\'t need no license\n
+        The more you sit there thinking, it\'s a minus\n
+         \n
+        Don\'t try to be a genius\n
+        Why so serious?\n
+        Follow your heart Wooah\n
+        Let your heart lead you What u, what u waiting for?\n
+    </string>
+    <string name="lyrics_better">
+        Oh better\n
+        Oh better\n
+         \n
+        Each of us chasing our dreams everyday\n
+        Hearing your gentle voice over the phone\n
+        I wish you were by my side\n
+        (I want you now, I need you now)\n
+        No use pretending to be strong, I can\'t hide it Oh baby\n
+        (I know the way)\n
+         \n
+        Sharing our true feelings between us\n
+        Makes everything\n
+        (Oh better, oh better)\n
+        Your voice melts the\n
+        worries and tears away\n
+         \n
+        \'Cause you make it better, only you can make it Better\n
+        Yes there is no one, no one else\n
+        Better, I\'m waiting, Better\n
+        I can\'t lie, I won\'t lie, I can\'t hold it any more\n
+         \n
+        Ooh-la-la-la, ooh-la-la-la-la\n
+        Oh, ooh-la-la-la My heart is dancing\n
+        No one, no one, no one, no one\n
+        Always Better\n
+        because of you\n
+         \n
+        Hey I miss you\n
+        Repeating mistakes can wear me down super Big issue\n
+        Out of nowhere the phone rings It\'s you\n
+        Hearing your voice makes it all better\n
+         \n
+        So good you\'re my knight without a doubt\n
+        Like a vitamin So bright\n
+        With you everything\n
+        Turns positive\n
+         \n
+        You showed me the real me\n
+        All the time\n
+        (Oh better, oh better)\n
+        My feelings for you keep growing\n
+        Like a balloon\n
+         \n
+        With you everything is better\n
+        Turn the headwind to our advantage\n
+        Better we can do this\n
+        Let\'s meet at the goal line wishing you Good luck\n
+         \n
+        Ooh-la-la-la, ooh-la-la-la-la\n
+        Oh, ooh-la-la-la My heart flutters\n
+        No one, no one, no one, no one\n
+        It\'s always Better\n
+        because of you\n
+         \n
+        Your love for me\n
+        Just like time on its ceaseless course\n
+        Let\'s head\n
+        Into the future\n
+         \n
+        All the joy and sadness\n
+        Let\'s remember them like snapshots\n
+        So that when we finally get to meet\n
+        I can tell you about them vividly\n
+        You don\'t have to thrive everyday\n
+        When you need somebody to lean on Say so\n
+        I will be your shining light\n
+         \n
+        \'Cause you make it better, only you can make it Better\n
+        Yes there is no one, no one else\n
+        Better, I\'m waiting, Better\n
+        I can\'t lie, I won\'t lie, I can\'t hold it any more\n
+         \n
+        Ooh-la-la-la, ooh-la-la-la-la\n
+        Oh, ooh-la-la-la My heart is dancing\n
+        No one, no one, no one, no one\n
+        Always Better\n
+        because of you\n
+    </string>
+    <string name="lyrics_what_is_love">
+        TWICE!\n
+        What is love?\n
+         \n
+        Everyday, in a movie\n
+        In a book or drama\n
+        I feel love\n
+        Um I learn about love\n
+        My heart keeps beating as if it\'s my own story\n
+        Makes my heart pound and swell with hope\n
+        Um i want to know so bad\n
+         \n
+        Ooh maybe someday\n
+        Could it happen to me too?\n
+        When will it be? Who will it be?\n
+         \n
+        I wanna know how could it be as sweet as candy?\n
+        I wanna know how it\'s like flying in the sky?\n
+        I wanna know know know know\n
+        What is love?\n
+        What love feels like\n
+        I wanna know how it keeps you smiling all day\n
+        I wanna know how the whole world turns beautiful\n
+        I wanna know know know know\n
+        What is love?\n
+        Will love come to me someday\n
+         \n
+        Just imagining all this\n
+        Just thinking about it\n
+        Almost makes my heart burst\n
+        Um how good it feels\n
+        If, one day, for real\n
+        Love does come to me, I might just cry\n
+        Um I really want to know how it feels\n
+         \n
+        Ooh maybe someday\n
+        Could it happen to me too?\n
+        When will it be? Who will it be\n
+         \n
+        I wanna know how it could be as sweet as candy?\n
+        I wanna know how it\'s like flying in the sky?\n
+        I wanna know know know know\n
+        what is love?\n
+        What love feels like?\n
+        I wanna know how it keeps you smiling all day\n
+        I wanna know how the whole world turns beautiful?\n
+        I wanna know know know know\n
+        What is love?\n
+        Will love come to me someday?\n
+         \n
+        Where in the world are you now?\n
+        Just when will we get to meet each other?\n
+        When and how will our relationship start?\n
+        I don\'t know right now. but somehow I feel\n
+        That it will be really good\n
+        Better than any movie or drama\n
+        The greatest love will come\n
+        My gut instinct is always right\n
+        C\'mon show yourself, i\'m all set, ready!\n
+         \n
+        (Wonder where you are) I\'m gonna find you\n
+        (Wonder where you are) I\'m dying to see you\n
+        I can\'t take it much longer\n
+         \n
+        How could it be as sweet as candy?\n
+        How it\'s like flying in the sky?\n
+        I wanna know know know know\n
+        What is love?\n
+        What love feels like?\n
+        How it keeps you smiling all day?\n
+        How the whole world turns beautiful?\n
+        I wanna know know know know\n
+        What is love?\n
+        Will love come to me someday?\n
+         \n
+        I wanna know\n
+        I wanna know\n
+        I wanna know know know know\n
+        What is love?\n
+        I wanna know know know know\n
+        I wanna know\n
+        I wanna know\n
+        I wanna know know know know\n
+        What is love?\n
+        I wanna know\n
+    </string>
+    <string name="lyrics_signal">
+        Trying to let you know\n
+        I send you a sign, send you a signal\n
+        I must let you know\n
+         \n
+        I send you a sign, send you a signal\n
+        I send you a sign, send you a signal\n
+        I send you a sign, send you a signal\n
+        I send you a sign, send you a signal\n
+        I must let you know\n
+         \n
+        I send you a sign, send you a signal\n
+        But it doesn\'t work at all\n
+        I give you a glance and keep throwing hints\n
+        But you don\'t understand\n
+        You really get me so frustrated\n
+        I really don\'t know why\n
+        Once again I gather up the courage\n
+        I send you a sign, send you a signal\n
+         \n
+        No matter what glance, gesture or expression I give\n
+        It\'s no use, nothing works\n
+        You just don\'t get it, do you\n
+        What more can I do to express how I feel\n
+         \n
+        Didn\'t realize it at first, but\n
+        At some point I started to like you,silly\n
+        How could you be so unaware\n
+        When will you stop being so obtuse,\n
+        Treating me only as a friend\n
+        That is not what I want\n
+         \n
+        I send you a signal, send you a signal\n
+        Tingling Tingling Tingling Tingling\n
+        I want you, I want you\n
+        Why won\'t you respond\n
+        Whenever I see you, I send you my heart\n
+        Tingling Tingling Tingling Tingling\n
+        I\'m waiting for you, it\'s all so obvious\n
+        Why don\'t you understand\n
+         \n
+        Trying let you know\n
+        I send you a sign, send you a signal\n
+        I must let you know\n
+        I send you a sign, send you a signal\n
+         \n
+        When I smile at you, you really ought to know\n
+        It happens too often to be a coincidence\n
+        When I keep talking to you, you really should notice\n
+        How I keep on hanging around you\n
+         \n
+        Didn\'t realize it at first, but\n
+        At some point I started to like you,silly\n
+        How could you be so unaware\n
+        When will you stop being so obtuse,\n
+        Treating me only as a friend\n
+        That is not what I want\n
+         \n
+        I send you a signal, send you a signal\n
+        Tingling Tingling Tingling Tingling\n
+        I want you, I want you\n
+        Why won\'t you respond\n
+        Whenever I see you, I send you my heart\n
+        Tingling Tingling Tingling Tingling\n
+        I\'m waiting for you, it\'s all so obvious\n
+        Why don\'t you understand\n
+         \n
+        Tingling Tingling Tingling Tingling\n
+        Why don\'t you understand\n
+        Tingling Tingling Tingling Tingling\n
+        Why don\'t you understand\n
+         \n
+        I send you a sign, send you a signal\n
+        But it doesn\'t work at all\n
+        I give you a glance and keep throwing hints\n
+        But you don\'t understand\n
+        You really get me so frustrated\n
+        I really don\'t know why\n
+        Once again I gather up the courage\n
+        I send you a sign, send you a signal\n
+    </string>
+    <string name="lyrics_kura_kura">
+        Ooh\n
+        Lose control, all my heart and soul (Ever since I met you)\n
+        Lose control, all my heart and soul (Ooh-ooh, magic)\n
+         \n
+        This feeling that bears no name\n
+        Occupies my mind 24 hours\n
+        No matter what i do\n
+        I keep messing up\n
+        It isn\'t like me at all\n
+         \n
+        Whenever our eyes meet\n
+        My heart stops and we\'re frozen in time\n
+        Suddenly it\'s just the two of us\n
+        Im hopelessly\n
+        Head over heels Passion\n
+        When im with you\n
+         \n
+        Drawn into eternity\n
+        Feeling dizzy\n
+        It\'s like magic\n
+        Unpredictable my heart flutters\n
+        Drifting away\n
+        Sweet magic\n
+         \n
+        Your eyes, your smile, your hands, your words\n
+        You will always be the one\n
+        Feeling restless\n
+        Can\'t you see? all night\n
+         \n
+        (Magic, lose my control)\n
+        I hope you\'re feeling the magic too\n
+        I know you feel the same way\n
+        It\'s not fair to pretend you didn\'t notice\n
+        You must remember\n
+        That feeling when our eyes met\n
+        It can\'t be a mistake\n
+         \n
+        If there\'s such a thing as fate\n
+        This magical feeling is the proof\n
+        I was immediately drawn to you\n
+        Taken over by electrifying\n
+        Heart-throbbing emotion\n
+        When im with you\n
+         \n
+        Drawn into eternity\n
+        Feeling dizzy\n
+        It\'s like magic\n
+        Unpredictable my heart flutters\n
+        Drifting away\n
+        Sweet magic\n
+         \n
+        Your eyes, your smile, your hands, your words\n
+        You will always be the one\n
+        Feeling restless\n
+        Can\'t you see? all night\n
+         \n
+        Lose control, all my heart and soul (Magic)\n
+        Lose control, all my heart and soul\n
+         \n
+        Whenever our eyes meet\n
+        My heart stops and we\'re frozen in time\n
+        Suddenly it\'s just the two of us\n
+        Im hopelessly\n
+        Head over heels Passion\n
+        Ah, ah\n
+         \n
+        Drawn into eternity\n
+        Feeling dizzy\n
+        It\'s like magic\n
+        Unpredictable my heart flutters\n
+        Drifting away\n
+        Sweet magic\n
+         \n
+        Your eyes, your smile, your hands, your words\n
+        You will always be the one\n
+        Feeling restless\n
+        Can\'t you see? all night\n
+         \n
+        Lose control, all my heart and soul (All my heart and soul)\n
+        (Magic)\n
+        Lose control, all my heart and soul (Oh, magic)\n
+    </string>
+</resources>
